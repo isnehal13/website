@@ -1,0 +1,72 @@
+html body {
+    color: black;
+
+}
+
+#blo1 {
+width: 80vh;
+}
+.navbar {
+    background: #f8b400;
+    height: 10vh;
+}
+.navbar a {
+color: black;
+}
+
+.container1 {
+width: 50%;
+height: 100%;
+background-color: transparent;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: auto;
+}
+.container2 {
+width: 70%;
+height: 100%;
+background-color: transparent;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: auto;
+margin-top: 50px;
+text-align: justify;
+}
+.container2 span {
+font-size: 2rem;
+margin-top: 30px;
+}
+
+.blog2 {
+margin-top: 0%;
+}
+#blo2 {
+margin-top: 5vh;
+width: 80vh;
+}
+
+.container3 {
+width: 50%;
+height: 100%;
+background-color: transparent;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: auto;
+}
+.container4 {
+width: 70%;
+height: 100%;
+background-color: transparent;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: auto;
+margin-top: 50px;
+text-align: justify;
+}
+.container4 span {
+font-size: 2rem;
+}
